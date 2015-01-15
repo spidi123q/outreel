@@ -1,0 +1,7 @@
+# 
+acodec=libmp3lame
+b=1320k
+strict=experimental
+f=avi
+vcodec=libxvid
+ac=2

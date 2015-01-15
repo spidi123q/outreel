@@ -1,0 +1,8 @@
+# 
+acodec=aac
+b=429k
+ab=96k
+strict=experimental
+f=mp4
+vpre
+vcodec=mpeg4

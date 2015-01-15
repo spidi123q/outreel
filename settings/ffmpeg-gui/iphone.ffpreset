@@ -1,0 +1,7 @@
+# Apple
+vcodec=mpeg4
+acodec=aac
+b=429k
+ab=96k
+strict=experimental
+f=mp4

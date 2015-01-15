@@ -1,0 +1,5 @@
+# nokia
+acodec=aac
+vcodec=mpeg4
+r=15
+b=115k

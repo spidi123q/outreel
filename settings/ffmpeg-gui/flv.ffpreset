@@ -1,0 +1,8 @@
+# 
+acodec=libmp3lame
+b=1035k
+ab=32k
+strict=experimental
+ac=2
+f=flv
+vcodec=flashsv

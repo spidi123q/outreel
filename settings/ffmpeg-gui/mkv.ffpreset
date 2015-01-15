@@ -1,0 +1,8 @@
+# 
+acodec=aac
+b=990k
+strict=experimental
+f=matroska
+ac=2
+vcodec=h263p
+ab=96k

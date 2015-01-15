@@ -1,0 +1,7 @@
+# 
+acodec=libmp3lame
+b=768k
+ab=256k
+strict=experimental
+f=swf
+vcodec=flv
